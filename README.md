@@ -3,7 +3,7 @@
 Install myPad with Homebrew:
 
 ```bash
-brew tap abhurisiwarak-byte/tap
+brew tap abhuri/tap
 brew install --cask mypad
 ```
 
@@ -28,4 +28,4 @@ brew uninstall --cask --zap mypad
 
 Project repository:
 
-https://github.com/abhurisiwarak-byte/myPad
+https://github.com/abhuri/myPad

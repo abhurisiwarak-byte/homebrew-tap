@@ -2,10 +2,10 @@ cask "mypad" do
   version "0.1.0"
   sha256 "b79d76ead17862636950b1e17830446e46437f59c023ec120ea3df3d373e4102"
 
-  url "https://github.com/abhurisiwarak-byte/myPad/releases/download/v#{version}/myPad-#{version}.zip"
+  url "https://github.com/abhuri/myPad/releases/download/v#{version}/myPad-#{version}.zip"
   name "myPad"
   desc "Small native macOS scratchpad app for quick notes"
-  homepage "https://github.com/abhurisiwarak-byte/myPad"
+  homepage "https://github.com/abhuri/myPad"
 
   depends_on macos: :sonoma
 
